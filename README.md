@@ -32,4 +32,4 @@ This plugin allows players to fill their inventories with potions with a simple 
 ### Need help?
 
 Join the [Support Server](https://discord.i0dev.com/) and feel free to ask any questions. You can message me directly
-too, My discord is i0#0001
+too, my discord is i0#0001

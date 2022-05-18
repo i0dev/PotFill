@@ -3,7 +3,7 @@ plugins {
     id "com.github.johnrengelman.shadow" version "7.1.2"
 }
 
-group 'com.i0dev'
+group 'com.i0dev.plugin.potfill'
 version '2.0.0'
 
 repositories {
