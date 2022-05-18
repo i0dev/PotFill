@@ -4,7 +4,6 @@ import com.i0dev.plugin.potfill.PotFillPlugin;
 import com.i0dev.plugin.potfill.config.GeneralConfig;
 import com.i0dev.plugin.potfill.config.MessageConfig;
 import com.i0dev.plugin.potfill.template.*;
-import com.i0dev.plugins.template.*;
 import org.bukkit.Bukkit;
 import org.bukkit.event.HandlerList;
 import org.bukkit.plugin.java.JavaPlugin;
