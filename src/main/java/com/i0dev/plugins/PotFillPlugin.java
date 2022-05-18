@@ -1,12 +1,12 @@
 package com.i0dev.plugins;
 
-import com.i0dev.plugins.commands.CmdPotFill;
+import com.i0dev.plugins.command.CmdPotFill;
 import com.i0dev.plugins.config.GeneralConfig;
 import com.i0dev.plugins.config.MessageConfig;
-import com.i0dev.plugins.hooks.PlaceholderAPIHook;
-import com.i0dev.plugins.hooks.VaultHook;
-import com.i0dev.plugins.managers.ConfigManager;
-import com.i0dev.plugins.objects.CorePlugin;
+import com.i0dev.plugins.hook.PlaceholderAPIHook;
+import com.i0dev.plugins.hook.VaultHook;
+import com.i0dev.plugins.manager.ConfigManager;
+import com.i0dev.plugins.object.CorePlugin;
 import lombok.Getter;
 
 @Getter

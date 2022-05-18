@@ -1,4 +1,4 @@
-package com.i0dev.plugins.objects;
+package com.i0dev.plugins.object;
 
 import lombok.*;
 import org.bukkit.Location;

@@ -1,4 +1,4 @@
-package com.i0dev.plugins.templates;
+package com.i0dev.plugins.template;
 
 import org.bukkit.event.Listener;
 

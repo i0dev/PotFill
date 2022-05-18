@@ -1,8 +1,8 @@
-package com.i0dev.plugins.managers;
+package com.i0dev.plugins.manager;
 
 import com.i0dev.plugins.PotFillPlugin;
-import com.i0dev.plugins.objects.SimpleConfig;
-import com.i0dev.plugins.templates.AbstractManager;
+import com.i0dev.plugins.object.SimpleConfig;
+import com.i0dev.plugins.template.AbstractManager;
 import lombok.Getter;
 
 import java.io.*;

@@ -1,11 +1,11 @@
-package com.i0dev.plugins.objects;
+package com.i0dev.plugins.object;
 
 import java.io.File;
 import java.io.InputStream;
 import java.util.List;
 import java.util.Set;
 
-import com.i0dev.plugins.managers.ConfigManager;
+import com.i0dev.plugins.manager.ConfigManager;
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;

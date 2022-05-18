@@ -1,6 +1,6 @@
-package com.i0dev.plugins.hooks;
+package com.i0dev.plugins.hook;
 
-import com.i0dev.plugins.templates.AbstractHook;
+import com.i0dev.plugins.template.AbstractHook;
 import me.clip.placeholderapi.PlaceholderAPI;
 import org.bukkit.entity.Player;
 

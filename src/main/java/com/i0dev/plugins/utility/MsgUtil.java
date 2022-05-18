@@ -1,7 +1,7 @@
 package com.i0dev.plugins.utility;
 
 import com.i0dev.plugins.PotFillPlugin;
-import com.i0dev.plugins.objects.Pair;
+import com.i0dev.plugins.object.Pair;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.CommandSender;
@@ -28,7 +28,7 @@ public class MsgUtil {
 
     public static String papi(CommandSender sender, String s) {
         if (!PotFillPlugin.getPlugin().isHookEnabled("papi") || !(sender instanceof Player)) return s;
-        return PotFillPlugin.getPlugin().getHook(com.i0dev.plugins.hooks.PlaceholderAPIHook.class).replace((Player) sender, s);
+        return PotFillPlugin.getPlugin().getHook(com.i0dev.plugins.hook.PlaceholderAPIHook.class).replace((Player) sender, s);
     }
 
     public static String full(CommandSender sender, String msg, Pair<String, String>... pairs) {

@@ -1,7 +1,7 @@
-package com.i0dev.plugins.templates;
+package com.i0dev.plugins.template;
 
 import com.i0dev.plugins.PotFillPlugin;
-import com.i0dev.plugins.objects.SimpleConfig;
+import com.i0dev.plugins.object.SimpleConfig;
 import com.i0dev.plugins.utility.MsgUtil;
 import lombok.Getter;
 import lombok.Setter;

@@ -1,8 +1,8 @@
-package com.i0dev.plugins.commands;
+package com.i0dev.plugins.command;
 
-import com.i0dev.plugins.hooks.VaultHook;
-import com.i0dev.plugins.objects.Pair;
-import com.i0dev.plugins.templates.AbstractCommand;
+import com.i0dev.plugins.hook.VaultHook;
+import com.i0dev.plugins.object.Pair;
+import com.i0dev.plugins.template.AbstractCommand;
 import com.i0dev.plugins.utility.MsgUtil;
 import lombok.Getter;
 import org.bukkit.Material;

@@ -1,6 +1,6 @@
 package com.i0dev.plugins.config;
 
-import com.i0dev.plugins.templates.AbstractConfiguration;
+import com.i0dev.plugins.template.AbstractConfiguration;
 import lombok.Getter;
 import lombok.Setter;
 

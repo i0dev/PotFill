@@ -1,9 +1,9 @@
-package com.i0dev.plugins.objects;
+package com.i0dev.plugins.object;
 
 import com.i0dev.plugins.PotFillPlugin;
 import com.i0dev.plugins.config.GeneralConfig;
 import com.i0dev.plugins.config.MessageConfig;
-import com.i0dev.plugins.templates.*;
+import com.i0dev.plugins.template.*;
 import org.bukkit.Bukkit;
 import org.bukkit.event.HandlerList;
 import org.bukkit.plugin.java.JavaPlugin;

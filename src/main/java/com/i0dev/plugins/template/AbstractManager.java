@@ -1,4 +1,4 @@
-package com.i0dev.plugins.templates;
+package com.i0dev.plugins.template;
 
 
 import lombok.Getter;
@@ -6,10 +6,9 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public abstract class AbstractHook {
+public abstract class AbstractManager {
 
     public boolean loaded = false;
-    public String name = "";
 
     public void initialize() {
 

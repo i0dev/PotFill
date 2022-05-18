@@ -1,17 +1,13 @@
-package com.i0dev.plugins.hooks;
+package com.i0dev.plugins.hook;
 
 import com.i0dev.plugins.PotFillPlugin;
-import com.i0dev.plugins.templates.AbstractHook;
+import com.i0dev.plugins.template.AbstractHook;
 import net.milkbowl.vault.economy.Economy;
 import net.milkbowl.vault.economy.EconomyResponse;
 import org.bukkit.entity.Player;
-import org.bukkit.plugin.RegisteredServiceProvider;
-import org.bukkit.plugin.ServicePriority;
 
 public class VaultHook extends AbstractHook {
-
     Economy economy;
-
     @Override
     public void initialize() {
         economy = PotFillPlugin.getPlugin().getServer().getServicesManager().getRegistration(Economy.class).getProvider();

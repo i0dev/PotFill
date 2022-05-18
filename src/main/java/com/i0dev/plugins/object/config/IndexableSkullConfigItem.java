@@ -1,4 +1,4 @@
-package com.i0dev.plugins.objects.config;
+package com.i0dev.plugins.object.config;
 
 import java.util.List;
 

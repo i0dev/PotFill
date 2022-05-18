@@ -1,8 +1,8 @@
 package com.i0dev.plugins.utility;
 
-import com.i0dev.plugins.objects.Pair;
-import com.i0dev.plugins.objects.config.ColorConfigItem;
-import com.i0dev.plugins.objects.config.ConfigItem;
+import com.i0dev.plugins.object.Pair;
+import com.i0dev.plugins.object.config.ColorConfigItem;
+import com.i0dev.plugins.object.config.ConfigItem;
 import org.apache.commons.lang.StringUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
