@@ -78,7 +78,7 @@ public abstract class CorePlugin extends JavaPlugin {
     }
 
     public void reloadConfig() {
-        configs.forEach(configuration -> configuration.getConfig().reloadConfig());
+        configs.forEach(configs -> configs.getConfig().reloadConfig());
     }
 
     public SimpleConfig getConfig(Class<? extends AbstractConfiguration> clazz) {

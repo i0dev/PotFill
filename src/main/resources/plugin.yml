@@ -1,6 +1,6 @@
 name: PotFill
 main: com.i0dev.plugins.PotFillPlugin
-version: 2.0.0
+version: 2.0.1
 author: i01
 description: Fill potions into your inventory for a set price.
 website: www.i0dev.com
